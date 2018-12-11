@@ -1,4 +1,4 @@
-# React boilerplate
+# React - Apollo - GraphQL boilerplate
 
 ### Usage
 

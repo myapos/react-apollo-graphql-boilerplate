@@ -19,10 +19,7 @@
     }
   },
   "globals": {
-    "Adman": true,
-    "bitmovin": true,
-    "PhaistosPlayer": true,
-    "ga": true,
+    
   },
   "parserOptions": {
     "sourceType": "module",
